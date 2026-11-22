@@ -1,251 +1,33 @@
 [
   {
-    "id": "warsagesforever",
-    "name": "WarsagesForever (Oficial)",
-    "version": "1.0.2",
-    "category": "ui",
-    "categoryLabel": "Interfaz Oficial",
-    "author": "WarSages",
-    "description": "Addon oficial de interfaz de WarSages para Cataclysm 4.3.4. Modo edición libre (/wf edit), consola de bronce, barras de acción y minimapa mejorado.",
-    "folders": [
-      "WarsagesForever"
-    ],
-    "icon": "👑",
-    "featured": true,
-    "size": "564 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/warsagesforever.zip"
-  },
-  {
-    "id": "nicedamage",
-    "name": "NiceDamage (Fuentes de Combate)",
-    "version": "4.3.4",
-    "category": "ui",
-    "categoryLabel": "Interfaz & Combate",
-    "author": "WarSages",
-    "description": "Reemplaza los números de daño y sanación flotante por tipografías nítidas y estilizadas de alta legibilidad.",
-    "folders": [
-      "NiceDamage"
-    ],
-    "icon": "💥",
-    "featured": true,
-    "size": "1.2 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/nicedamage.zip"
-  },
-  {
-    "id": "dbm",
-    "name": "Deadly Boss Mods (DBM)",
-    "version": "4.3.4 Release",
-    "category": "jce",
-    "categoryLabel": "Bandas & Mazmorras",
-    "author": "MysticalOS",
-    "description": "Avisos esenciales, barras de tiempo, cuentas atrás y alertas visuales para Alma de Dragón, Tierras de Fuego y todas las mazmorras de Cataclysm.",
-    "folders": [
-      "DBM-Core",
-      "DBM-DragonSoul",
-      "DBM-Firelands",
-      "DBM-BastionTwilight",
-      "DBM-BlackwingDescent",
-      "DBM-BaradinHold",
-      "DBM-Party-Cataclysm",
-      "DBM-ThroneFourWinds",
-      "DBM-WorldEvents",
-      "DBM-GUI",
-      "DBM-PvP",
-      "DBM-SpellTimers"
-    ],
-    "icon": "⚔️",
-    "featured": true,
-    "size": "1.0 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/dbm.zip"
-  },
-  {
-    "id": "elvui",
-    "name": "ElvUI (Cataclysm Edition)",
-    "version": "4.3.4 v6.09",
-    "category": "ui",
-    "categoryLabel": "Interfaz & UI",
-    "author": "Elv & Tukz",
-    "description": "Suite completa y moderna que reemplaza totalmente la interfaz de Blizzard. Incluye marcos de unidad, barras de acción, minimapa y temas oscuros.",
-    "folders": [
-      "ElvUI",
-      "ElvUI_AddOnSkins",
-      "ElvUI_Enhanced",
-      "ElvUI_EnhancedFriendsList",
-      "ElvUI_MicrobarEnhancement",
-      "ElvUI_OptionsUI",
-      "ElvUI_SwingBar"
-    ],
-    "icon": "🎨",
-    "featured": true,
-    "size": "3.5 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/elvui.zip"
-  },
-  {
-    "id": "recount",
-    "name": "Recount",
-    "version": "v4.3.4a",
-    "category": "medidores",
-    "categoryLabel": "Medidores & Daño",
-    "author": "Cryect & Elsia",
-    "description": "El clásico medidor gráfico de daño por segundo (DPS), sanación recibida, muertes y estadísticas de combate en tiempo real.",
-    "folders": [
-      "Recount"
-    ],
-    "icon": "📈",
-    "featured": false,
-    "size": "372 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/recount.zip"
-  },
-  {
-    "id": "skada",
-    "name": "Skada Damage Meter",
-    "version": "1.4.30",
-    "category": "medidores",
-    "categoryLabel": "Medidores & Daño",
-    "author": "Zarnivoop",
-    "description": "Medidor modular y ligero de daño y sanación para bandas y mazmorras con soporte para múltiples ventanas simultáneas.",
-    "folders": [
-      "Skada",
-      "SkadaCC",
-      "SkadaDamage",
-      "SkadaDamageTaken",
-      "SkadaDeaths",
-      "SkadaDebuffs",
-      "SkadaDispels",
-      "SkadaEnemies",
-      "SkadaHealing",
-      "SkadaPower",
-      "SkadaThreat"
-    ],
-    "icon": "📊",
-    "featured": true,
-    "size": "886 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/skada.zip"
-  },
-  {
-    "id": "bagnon",
-    "name": "Bagnon",
-    "version": "4.3.4 Classic",
-    "category": "bolsas",
-    "categoryLabel": "Inventario & Bolsas",
-    "author": "Jaliborc",
-    "description": "Unifica todas tus bolsas, banco y banco de hermandad en una sola ventana limpia con buscador, coloreado por calidad y visor de personajes.",
-    "folders": [
-      "Bagnon",
-      "Bagnon_Config",
-      "Bagnon_GuildBank",
-      "Bagnon_VoidStorage",
-      "BagBrother"
-    ],
-    "icon": "🎒",
-    "featured": false,
-    "size": "133 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/bagnon.zip"
-  },
-  {
-    "id": "tidyplates",
-    "name": "Tidy Plates",
-    "version": "6.4.15",
+    "id": "ackisrecipelist",
+    "name": "Ackis Recipe List (ARL)",
+    "version": "2.3.1",
     "category": "utilidades",
-    "categoryLabel": "Placas de Nombre",
-    "author": "Binny & Danltik",
-    "description": "Reemplaza las placas de nombre estándar con barras legibles, estado de amenaza (aggro) por colores, tiempo de perjuicios y rango de combate.",
+    "categoryLabel": "Profesiones & Recetas",
+    "author": "Ackis",
+    "description": "Escanea tu libro de profesiones y te indica exactamente qué recetas te faltan por aprender y qué intendente o mob las vende o suelta.",
     "folders": [
-      "TidyPlates",
-      "TidyPlatesHub",
-      "TidyPlatesWidgets",
-      "TidyPlates_Graphite",
-      "TidyPlates_Grey",
-      "TidyPlates_Neon",
-      "TidyPlates_Quatre"
+      "AckisRecipeList"
     ],
-    "icon": "🏷️",
-    "featured": false,
-    "size": "336 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/tidyplates.zip"
+    "icon": "📖",
+    "size": "933 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/ackisrecipelist.zip"
   },
   {
-    "id": "weakauras",
-    "name": "WeakAuras 2",
-    "version": "Cataclysm Edition",
-    "category": "ui",
-    "categoryLabel": "Avisos & Auras",
-    "author": "Mirrored & WA Team",
-    "description": "Herramienta ultrapotente para crear y compartir alertas visuales y sonoras de procs, tiempos de reutilización, beneficios y desventajas.",
-    "folders": [
-      "WeakAuras",
-      "WeakAurasModelPaths",
-      "WeakAurasOptions",
-      "WeakAurasTutorials"
-    ],
-    "icon": "✨",
-    "featured": true,
-    "size": "5.3 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/weakauras.zip"
-  },
-  {
-    "id": "postal",
-    "name": "Postal",
-    "version": "v3.4.10",
+    "id": "acp",
+    "name": "Addon Control Panel (ACP)",
+    "version": "3.3.17",
     "category": "utilidades",
-    "categoryLabel": "Correo & Utilidades",
-    "author": "Tiago & Xinhuan",
-    "description": "Gestor avanzado del buzón de correo de World of Warcraft con botón de recogida masiva, autocompletado de amigos y reenvío rápido.",
+    "categoryLabel": "Gestor en Juego",
+    "author": "Ansell",
+    "description": "Activa o desactiva addons directamente desde el menú del juego sin necesidad de desconectar ni reiniciar World of Warcraft.",
     "folders": [
-      "Postal"
+      "ACP"
     ],
-    "icon": "📬",
-    "featured": false,
-    "size": "77 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/postal.zip"
-  },
-  {
-    "id": "gtfo",
-    "name": "GTFO",
-    "version": "4.3.4",
-    "category": "jce",
-    "categoryLabel": "Alertas & Avisos",
-    "author": "Zarnivoop",
-    "description": "Alertas sonoras inmediatas cuando estás parado sobre fuego, veneno, void zones o daño evitable en bandas y mazmorras.",
-    "folders": [
-      "GTFO"
-    ],
-    "icon": "⚠️",
-    "featured": false,
-    "size": "169 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/gtfo.zip"
-  },
-  {
-    "id": "reforgelite",
-    "name": "ReforgeLite",
-    "version": "1.33",
-    "category": "utilidades",
-    "categoryLabel": "Optimización & Forja",
-    "author": "Dmitry Sadakov",
-    "description": "Calcula la reforma óptima de estadísticas para capar golpe, pericia, celeridad y maestría con solo un clic en el reformador.",
-    "folders": [
-      "ReforgeLite"
-    ],
-    "icon": "🔨",
-    "featured": false,
-    "size": "43 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/reforgelite.zip"
-  },
-  {
-    "id": "pawn",
-    "name": "Pawn WarSages Edition",
-    "version": "1.0.1",
-    "category": "utilidades",
-    "categoryLabel": "Equipo & Estadísticas",
-    "author": "Vger",
-    "description": "Calcula si un objeto nuevo es una mejora directa para tu especialización basándose en escalas de estadísticas de Cataclysm 4.3.4.",
-    "folders": [
-      "Pawn"
-    ],
-    "icon": "🛡️",
-    "featured": false,
-    "size": "814 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/pawn.zip"
+    "icon": "🎛️",
+    "size": "30 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/acp.zip"
   },
   {
     "id": "altoholic",
@@ -281,163 +63,61 @@
       "DataStore_Talents"
     ],
     "icon": "👥",
-    "featured": false,
     "size": "1.4 MB",
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/altoholic.zip"
   },
   {
-    "id": "tradeskillmaster",
-    "name": "TradeSkillMaster (TSM)",
-    "version": "4.3.4 Edition",
-    "category": "utilidades",
-    "categoryLabel": "Comercio & Subastas",
-    "author": "Sapu94",
-    "description": "Suite integral de comercio y subastas: gestión de compras, cancelaciones, contabilidad de beneficios y crafteo rentable.",
-    "folders": [
-      "TradeSkillMaster",
-      "TradeSkillMaster_Accounting",
-      "TradeSkillMaster_AuctionDB",
-      "TradeSkillMaster_Auctioning",
-      "TradeSkillMaster_Crafting",
-      "TradeSkillMaster_Destroying",
-      "TradeSkillMaster_Gathering",
-      "TradeSkillMaster_ItemTracker",
-      "TradeSkillMaster_Mailing",
-      "TradeSkillMaster_Shopping",
-      "TradeSkillMaster_Warehousing",
-      "TradeSkillMaster_WoWuction"
-    ],
-    "icon": "💰",
-    "featured": false,
-    "size": "1.3 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/tradeskillmaster.zip"
-  },
-  {
-    "id": "carbonite",
-    "name": "Carbonite",
+    "id": "archy",
+    "name": "Archy (Arqueología)",
     "version": "4.3.4",
     "category": "utilidades",
-    "categoryLabel": "Mundo & Misiones",
-    "author": "Carbonite Team",
-    "description": "Mapa de exploración por satélite con zoom continuo, rastreador de misiones avanzado, guía de recursos y minas/hierbas.",
+    "categoryLabel": "Arqueología",
+    "author": "Torhal",
+    "description": "Asistente de excavación arqueológica. Muestra distancias, direcciones con brújula y optimiza el tiempo para encontrar artefactos épicos.",
     "folders": [
-      "Carbonite",
-      "CarboniteItems",
-      "CarboniteNodes",
-      "CarboniteTransfer"
+      "Archy"
+    ],
+    "icon": "🏺",
+    "size": "460 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/archy.zip"
+  },
+  {
+    "id": "armory",
+    "name": "Armory",
+    "version": "v9.13.5",
+    "category": "utilidades",
+    "categoryLabel": "Base de Datos de Personajes",
+    "author": "Aezay",
+    "description": "Enciclopedia integrada para consultar equipo, talentos, profesiones, misiones y banco de hermandad de todos tus personajes.",
+    "folders": [
+      "Armory",
+      "ArmoryGuildBank"
+    ],
+    "icon": "🏰",
+    "size": "690 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/armory.zip"
+  },
+  {
+    "id": "atlasloot",
+    "name": "AtlasLoot Enhanced",
+    "version": "v6.05.04",
+    "category": "utilidades",
+    "categoryLabel": "Botín & Mazmorras",
+    "author": "Hegarde & Daviesh",
+    "description": "Muestra tablas completas de botín de todos los jefes de mazmorra, bandas, eventos del mundo, profesiones y conjuntos de Cataclysm 4.3.4.",
+    "folders": [
+      "AtlasLoot",
+      "AtlasLoot_BurningCrusade",
+      "AtlasLoot_Cataclysm",
+      "AtlasLoot_ClassicWoW",
+      "AtlasLoot_Crafting",
+      "AtlasLoot_Loader",
+      "AtlasLoot_WorldEvents",
+      "AtlasLoot_WrathoftheLichKing"
     ],
     "icon": "🗺️",
-    "featured": false,
-    "size": "2.1 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/carbonite.zip"
-  },
-  {
-    "id": "consoleport",
-    "name": "ConsolePort (Mando / Gamepad)",
-    "version": "Cata Backport",
-    "category": "ui",
-    "categoryLabel": "Mando & Accesibilidad",
-    "author": "Sebastian",
-    "description": "Juega World of Warcraft Cataclysm con mando de Xbox, PlayStation o Steam Deck con menús circulares y mapeo ergonómico.",
-    "folders": [
-      "ConsolePort",
-      "ConsolePortAdvanced",
-      "ConsolePortBar",
-      "ConsolePortHelp",
-      "ConsolePortKeyboard",
-      "ConsolePortLoader",
-      "ConsolePortUI_Loot",
-      "ConsolePortUI_Menu"
-    ],
-    "icon": "🎮",
-    "featured": true,
-    "size": "10.4 MB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/consoleport.zip"
-  },
-  {
-    "id": "npcscan",
-    "name": "_NPCScan & SilverDragon",
-    "version": "4.3.4",
-    "category": "utilidades",
-    "categoryLabel": "Raros & Logros",
-    "author": "Saiket & Kemayo",
-    "description": "Alerta al instante con sonido y target 3D cuando un enemigo raro de Cataclysm o cualquier expansión aparece cerca de ti.",
-    "folders": [
-      "_NPCScan",
-      "SilverDragon",
-      "SilverDragon_Data"
-    ],
-    "icon": "🔍",
-    "featured": false,
-    "size": "363 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/npcscan.zip"
-  },
-  {
-    "id": "drdamage",
-    "name": "DrDamage",
-    "version": "c1.8.3",
-    "category": "utilidades",
-    "categoryLabel": "Cálculo de Daño",
-    "author": "Gagorian",
-    "description": "Muestra sobre cada botón de tus habilidades el daño medio esperado, porcentaje de crítico y curación real tras aplicar talentos y equipo.",
-    "folders": [
-      "DrDamage"
-    ],
-    "icon": "🎯",
-    "featured": false,
-    "size": "403 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/drdamage.zip"
-  },
-  {
-    "id": "questcompletist",
-    "name": "QuestCompletist",
-    "version": "v102",
-    "category": "utilidades",
-    "categoryLabel": "Misiones & Logros",
-    "author": "Kader",
-    "description": "Muestra en el mapa del mundo todas las misiones disponibles y pendientes de completar para conseguir el logro El Maestro Cultural.",
-    "folders": [
-      "QuestCompletist"
-    ],
-    "icon": "📜",
-    "featured": false,
-    "size": "797 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/questcompletist.zip"
-  },
-  {
-    "id": "superdupermacro",
-    "name": "SuperDuperMacro",
-    "version": "2.4.1",
-    "category": "utilidades",
-    "categoryLabel": "Macros Avanzadas",
-    "author": "WoW Addons",
-    "description": "Supera el límite restrictivo de 255 caracteres de macros de Blizzard, permitiendo macros complejas sin límite de tamaño.",
-    "folders": [
-      "SuperDuperMacro"
-    ],
-    "icon": "📝",
-    "featured": false,
-    "size": "62 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/superdupermacro.zip"
-  },
-  {
-    "id": "phoenixstyle",
-    "name": "PhoenixStyle (Análisis de Banda)",
-    "version": "4.3.4",
-    "category": "jce",
-    "categoryLabel": "Bandas & Análisis",
-    "author": "Shurshik",
-    "description": "Rastrea y reporta en el chat de banda quién ha fallado mecánicas, quién ha muerto por fuego y estadísticas detalladas de combate.",
-    "folders": [
-      "PhoenixStyle",
-      "PhoenixStyleMod_CataMiniRaids",
-      "PhoenixStyleMod_DragonSoul",
-      "PhoenixStyleMod_Firelands"
-    ],
-    "icon": "🔥",
-    "featured": false,
-    "size": "344 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/phoenixstyle.zip"
+    "size": "1.2 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/atlasloot.zip"
   },
   {
     "id": "auctionator",
@@ -448,14 +128,15 @@
     "author": "Norganna",
     "description": "Herramienta de escaneo del valor del mercado en la Casa de Subastas, consejos de venta al vuelo y asistente de compras.",
     "folders": [
+      "!Swatter",
       "Auc-Advanced",
       "Auc-Filter-Basic",
       "Auc-ScanData",
       "Auc-Stat-Histogram",
-      "Auc-Stat-iLevel",
       "Auc-Stat-Purchased",
       "Auc-Stat-Simple",
       "Auc-Stat-StdDev",
+      "Auc-Stat-iLevel",
       "Auc-Util-FixAH",
       "AuctionHouseAnalyzer",
       "BeanCounter",
@@ -463,13 +144,45 @@
       "Enchantrix-Barker",
       "Informant",
       "SlideBar",
-      "Stubby",
-      "!Swatter"
+      "Stubby"
     ],
     "icon": "🏷️",
-    "featured": false,
     "size": "4.4 MB",
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/auctionator.zip"
+  },
+  {
+    "id": "bagnon",
+    "name": "Bagnon",
+    "version": "4.3.4 Classic",
+    "category": "bolsas",
+    "categoryLabel": "Inventario & Bolsas",
+    "author": "Jaliborc",
+    "description": "Unifica todas tus bolsas, banco y banco de hermandad en una sola ventana limpia con buscador, coloreado por calidad y visor de personajes.",
+    "folders": [
+      "BagBrother",
+      "Bagnon",
+      "Bagnon_Config",
+      "Bagnon_GuildBank",
+      "Bagnon_VoidStorage"
+    ],
+    "icon": "🎒",
+    "size": "133 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/bagnon.zip"
+  },
+  {
+    "id": "bartender4",
+    "name": "Bartender4",
+    "version": "4.4.20",
+    "category": "ui",
+    "categoryLabel": "Barras de Acción",
+    "author": "Nevcairiel",
+    "description": "Personaliza y recoloca totalmente tus barras de acción, barras de mascotas, micromenú, barra de bolsas y estados de combate con teclas rápidas.",
+    "folders": [
+      "Bartender4"
+    ],
+    "icon": "🕹️",
+    "size": "283 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/bartender4.zip"
   },
   {
     "id": "bigwigs",
@@ -508,9 +221,474 @@
       "LittleWigs_ZulGurub"
     ],
     "icon": "⏳",
-    "featured": false,
     "size": "1.1 MB",
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/bigwigs.zip"
+  },
+  {
+    "id": "bindpad",
+    "name": "BindPad",
+    "version": "4.3.4",
+    "category": "utilidades",
+    "categoryLabel": "Asignación de Teclas",
+    "author": "CubeGuru",
+    "description": "Crea macros y asigna atajos de teclado directamente sin ocupar espacio en tus barras de acción.",
+    "folders": [
+      "BindPad"
+    ],
+    "icon": "⌨️",
+    "size": "27 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/bindpad.zip"
+  },
+  {
+    "id": "carbonite",
+    "name": "Carbonite",
+    "version": "4.3.4",
+    "category": "utilidades",
+    "categoryLabel": "Mundo & Misiones",
+    "author": "Carbonite Team",
+    "description": "Mapa de exploración por satélite con zoom continuo, rastreador de misiones avanzado, guía de recursos y minas/hierbas.",
+    "folders": [
+      "Carbonite",
+      "CarboniteItems",
+      "CarboniteNodes",
+      "CarboniteTransfer"
+    ],
+    "icon": "🗺️",
+    "size": "2.1 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/carbonite.zip"
+  },
+  {
+    "id": "consoleport",
+    "name": "ConsolePort (Mando / Gamepad)",
+    "version": "Cata Backport",
+    "category": "ui",
+    "categoryLabel": "Mando & Accesibilidad",
+    "author": "Sebastian",
+    "description": "Juega World of Warcraft Cataclysm con mando de Xbox, PlayStation o Steam Deck con menús circulares y mapeo ergonómico.",
+    "folders": [
+      "ConsolePort",
+      "ConsolePortAdvanced",
+      "ConsolePortBar",
+      "ConsolePortHelp",
+      "ConsolePortKeyboard",
+      "ConsolePortLoader",
+      "ConsolePortUI_Loot",
+      "ConsolePortUI_Menu"
+    ],
+    "icon": "🎮",
+    "featured": true,
+    "size": "10.4 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/consoleport.zip"
+  },
+  {
+    "id": "dbm",
+    "name": "Deadly Boss Mods (DBM)",
+    "version": "4.3.4 Release",
+    "category": "jce",
+    "categoryLabel": "Bandas & Mazmorras",
+    "author": "MysticalOS",
+    "description": "Avisos esenciales, barras de tiempo, cuentas atrás y alertas visuales para Alma de Dragón, Tierras de Fuego y todas las mazmorras de Cataclysm.",
+    "folders": [
+      "DBM-BaradinHold",
+      "DBM-BastionTwilight",
+      "DBM-BlackwingDescent",
+      "DBM-Core",
+      "DBM-DragonSoul",
+      "DBM-Firelands",
+      "DBM-GUI",
+      "DBM-Party-Cataclysm",
+      "DBM-PvP",
+      "DBM-SpellTimers",
+      "DBM-ThroneFourWinds",
+      "DBM-WorldEvents"
+    ],
+    "icon": "⚔️",
+    "featured": true,
+    "size": "1.0 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/dbm.zip"
+  },
+  {
+    "id": "dominos",
+    "name": "Dominos",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "Barras de Acción",
+    "author": "Tuller",
+    "description": "Alternativa ultraligera a Bartender4 para recolocar barras de habilidades, barras de vehículos, totems y micromenús.",
+    "folders": [
+      "Dominos",
+      "Dominos_Cast",
+      "Dominos_Config",
+      "Dominos_Roll",
+      "Dominos_Totems"
+    ],
+    "icon": "🎮",
+    "size": "135 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/dominos.zip"
+  },
+  {
+    "id": "doomcooldownpulse",
+    "name": "Doom_CooldownPulse",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "Aviso de CDs",
+    "author": "Doom",
+    "description": "Hace destellar en el centro de tu pantalla el icono de la habilidad o abalorio en el momento exacto en que termina su cooldown.",
+    "folders": [
+      "Doom_CooldownPulse"
+    ],
+    "icon": "💫",
+    "size": "5 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/doomcooldownpulse.zip"
+  },
+  {
+    "id": "drdamage",
+    "name": "DrDamage",
+    "version": "c1.8.3",
+    "category": "utilidades",
+    "categoryLabel": "Cálculo de Daño",
+    "author": "Gagorian",
+    "description": "Muestra sobre cada botón de tus habilidades el daño medio esperado, porcentaje de crítico y curación real tras aplicar talentos y equipo.",
+    "folders": [
+      "DrDamage"
+    ],
+    "icon": "🎯",
+    "size": "403 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/drdamage.zip"
+  },
+  {
+    "id": "elvui",
+    "name": "ElvUI (Cataclysm Edition)",
+    "version": "4.3.4 v6.09",
+    "category": "ui",
+    "categoryLabel": "Interfaz & UI",
+    "author": "Elv & Tukz",
+    "description": "Suite completa y moderna que reemplaza totalmente la interfaz de Blizzard. Incluye marcos de unidad, barras de acción, minimapa y temas oscuros.",
+    "folders": [
+      "ElvUI",
+      "ElvUI_AddOnSkins",
+      "ElvUI_Enhanced",
+      "ElvUI_EnhancedFriendsList",
+      "ElvUI_MicrobarEnhancement",
+      "ElvUI_OptionsUI",
+      "ElvUI_SwingBar"
+    ],
+    "icon": "🎨",
+    "featured": true,
+    "size": "3.5 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/elvui.zip"
+  },
+  {
+    "id": "epicenchantlist",
+    "name": "EpicEnchantList",
+    "version": "0.5",
+    "category": "utilidades",
+    "categoryLabel": "Utilidades & Profesiones",
+    "author": "Arakara",
+    "description": "Enciclopedia completa dentro del juego con todos los encantamientos disponibles en Cataclysm 4.3.4 agrupados por ranura de equipo.",
+    "folders": [
+      "EpicEnchantList"
+    ],
+    "icon": "✨",
+    "size": "71 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/epicenchantlist.zip"
+  },
+  {
+    "id": "extracd",
+    "name": "ExtraCD",
+    "version": "0.9.6",
+    "category": "ui",
+    "categoryLabel": "Cooldowns Internos",
+    "author": "Baud",
+    "description": "Rastrea los cooldowns internos (ICD) y tiempo restante de activación de abalorios, gemas de meta y encantamientos de armas.",
+    "folders": [
+      "ExtraCD"
+    ],
+    "icon": "⏳",
+    "size": "151 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/extracd.zip"
+  },
+  {
+    "id": "gatherer",
+    "name": "Gatherer",
+    "version": "3.3.0",
+    "category": "utilidades",
+    "categoryLabel": "Utilidades & Profesiones",
+    "author": "Norganna",
+    "description": "Rastrea y mapea en el minimapa y mapa del mundo todos los nodos de recolección de herboristería, minería y tesoros descubiertos en Cataclysm.",
+    "folders": [
+      "!Swatter",
+      "Gatherer",
+      "Gatherer_HUD",
+      "SlideBar"
+    ],
+    "icon": "🌿",
+    "size": "612 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/gatherer.zip"
+  },
+  {
+    "id": "gladius",
+    "name": "Gladius (Arenas JcJ)",
+    "version": "v2.0.19",
+    "category": "jcj",
+    "categoryLabel": "Arenas & JcJ",
+    "author": "Raik",
+    "description": "Marcos esenciales para arenas 2v2, 3v3 y 5v5. Muestra vida, maná, tiempo de abalorio (trinket), rendimientos decrecientes y avisos de interrupción.",
+    "folders": [
+      "Gladius"
+    ],
+    "icon": "⚔️",
+    "size": "1.6 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/gladius.zip"
+  },
+  {
+    "id": "gtfo",
+    "name": "GTFO",
+    "version": "4.3.4",
+    "category": "jce",
+    "categoryLabel": "Alertas & Avisos",
+    "author": "Zarnivoop",
+    "description": "Alertas sonoras inmediatas cuando estás parado sobre fuego, veneno, void zones o daño evitable en bandas y mazmorras.",
+    "folders": [
+      "GTFO"
+    ],
+    "icon": "⚠️",
+    "size": "169 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/gtfo.zip"
+  },
+  {
+    "id": "healthwarning",
+    "name": "HealthWarning",
+    "version": "1.1.1",
+    "category": "ui",
+    "categoryLabel": "Interfaz & Alertas",
+    "author": "Kader",
+    "description": "Alerta visual y acústica configurable que se activa de inmediato cuando la vida de tu personaje cae por debajo de un porcentaje crítico.",
+    "folders": [
+      "HealthWarning"
+    ],
+    "icon": "❤️",
+    "size": "1 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/healthwarning.zip"
+  },
+  {
+    "id": "icehud",
+    "name": "IceHUD",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "HUD de Combate",
+    "author": "Parnic",
+    "description": "Barras curvas de vida y maná semitransparentes alrededor de tu personaje para mantener la atención en el centro de la pantalla.",
+    "folders": [
+      "IceHUD",
+      "IceHUD_Options"
+    ],
+    "icon": "🧊",
+    "size": "1010 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/icehud.zip"
+  },
+  {
+    "id": "itemleveldisplay",
+    "name": "ItemLevelDisplay",
+    "version": "1.0.5",
+    "category": "utilidades",
+    "categoryLabel": "Nivel de Objeto",
+    "author": "WarSages",
+    "description": "Muestra el nivel de objeto (iLvl) exacto sobre cada pieza de equipo y el promedio total en la ventana de personaje e inspeccionar.",
+    "folders": [
+      "ItemLevelDisplay"
+    ],
+    "icon": "🏷️",
+    "size": "457 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/itemleveldisplay.zip"
+  },
+  {
+    "id": "losecontrol",
+    "name": "LoseControl",
+    "version": "4.3.4",
+    "category": "jcj",
+    "categoryLabel": "Control de Masas (CC)",
+    "author": "Kouri",
+    "description": "Muestra un icono centrado con la duración de aturdimientos, silencios, polimorfias y pérdidas de control de tu personaje y objetivo.",
+    "folders": [
+      "LoseControl"
+    ],
+    "icon": "🔒",
+    "size": "14 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/losecontrol.zip"
+  },
+  {
+    "id": "msbt",
+    "name": "MikScrollingBattleText (MSBT)",
+    "version": "5.6.117",
+    "category": "ui",
+    "categoryLabel": "Texto de Combate",
+    "author": "Mikord",
+    "description": "Texto de combate flotante altamente configurable con arcos curvos, avisos de golpes críticos, procs de ejecución y sonidos.",
+    "folders": [
+      "MSBTOptions",
+      "MikScrollingBattleText"
+    ],
+    "icon": "💬",
+    "size": "574 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/msbt.zip"
+  },
+  {
+    "id": "nicedamage",
+    "name": "NiceDamage (Fuentes de Combate)",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "Interfaz & Combate",
+    "author": "WarSages",
+    "description": "Reemplaza los números de daño y sanación flotante por tipografías nítidas y estilizadas de alta legibilidad.",
+    "folders": [
+      "NiceDamage"
+    ],
+    "icon": "💥",
+    "featured": true,
+    "size": "1.2 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/nicedamage.zip"
+  },
+  {
+    "id": "npcscan",
+    "name": "_NPCScan & SilverDragon",
+    "version": "4.3.4",
+    "category": "utilidades",
+    "categoryLabel": "Raros & Logros",
+    "author": "Saiket & Kemayo",
+    "description": "Alerta al instante con sonido y target 3D cuando un enemigo raro de Cataclysm o cualquier expansión aparece cerca de ti.",
+    "folders": [
+      "SilverDragon",
+      "SilverDragon_Data",
+      "_NPCScan"
+    ],
+    "icon": "🔍",
+    "size": "363 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/npcscan.zip"
+  },
+  {
+    "id": "omen",
+    "name": "Omen Threat Meter",
+    "version": "4.3.4",
+    "category": "medidores",
+    "categoryLabel": "Medidor de Amenaza",
+    "author": "Xinhuan",
+    "description": "Medidor de agro y amenaza imprescindible para tanques y DPS. Alertas de cuando estás a punto de superar al tanque.",
+    "folders": [
+      "Omen"
+    ],
+    "icon": "⚠️",
+    "size": "323 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/omen.zip"
+  },
+  {
+    "id": "omnicc",
+    "name": "OmniCC",
+    "version": "4.3.2",
+    "category": "ui",
+    "categoryLabel": "Tiempos de Reutilización",
+    "author": "Tuller",
+    "description": "Añade números de tiempo de reutilización claros y legibles sobre todas tus habilidades, objetos e inventario con avisos visuales al activarse.",
+    "folders": [
+      "OmniCC",
+      "OmniCC_Config"
+    ],
+    "icon": "⏱️",
+    "size": "59 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/omnicc.zip"
+  },
+  {
+    "id": "pawn",
+    "name": "Pawn WarSages Edition",
+    "version": "1.0.1",
+    "category": "utilidades",
+    "categoryLabel": "Equipo & Estadísticas",
+    "author": "Vger",
+    "description": "Calcula si un objeto nuevo es una mejora directa para tu especialización basándose en escalas de estadísticas de Cataclysm 4.3.4.",
+    "folders": [
+      "Pawn"
+    ],
+    "icon": "🛡️",
+    "size": "814 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/pawn.zip"
+  },
+  {
+    "id": "phoenixstyle",
+    "name": "PhoenixStyle (Análisis de Banda)",
+    "version": "4.3.4",
+    "category": "jce",
+    "categoryLabel": "Bandas & Análisis",
+    "author": "Shurshik",
+    "description": "Rastrea y reporta en el chat de banda quién ha fallado mecánicas, quién ha muerto por fuego y estadísticas detalladas de combate.",
+    "folders": [
+      "PhoenixStyle",
+      "PhoenixStyleMod_CataMiniRaids",
+      "PhoenixStyleMod_DragonSoul",
+      "PhoenixStyleMod_Firelands"
+    ],
+    "icon": "🔥",
+    "size": "344 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/phoenixstyle.zip"
+  },
+  {
+    "id": "platebuffs",
+    "name": "PlateBuffs",
+    "version": "1.11.2beta",
+    "category": "ui",
+    "categoryLabel": "Placas de Nombre & Buffs",
+    "author": "Cypress",
+    "description": "Muestra los iconos de tus perjuicios y hechizos de control de masas directamente sobre las barras de vida de los enemigos.",
+    "folders": [
+      "PlateBuffs"
+    ],
+    "icon": "🛡️",
+    "size": "220 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/platebuffs.zip"
+  },
+  {
+    "id": "postal",
+    "name": "Postal",
+    "version": "v3.4.10",
+    "category": "utilidades",
+    "categoryLabel": "Correo & Utilidades",
+    "author": "Tiago & Xinhuan",
+    "description": "Gestor avanzado del buzón de correo de World of Warcraft con botón de recogida masiva, autocompletado de amigos y reenvío rápido.",
+    "folders": [
+      "Postal"
+    ],
+    "icon": "📬",
+    "size": "77 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/postal.zip"
+  },
+  {
+    "id": "quartz",
+    "name": "Quartz (Barras de Lanzamiento)",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "Barras de Casteo",
+    "author": "Nymbia",
+    "description": "Barras de lanzamiento modulares de alta precisión con compensación visual de latencia / lag para castear hechizos sin perder milisegundos.",
+    "folders": [
+      "Quartz"
+    ],
+    "icon": "⚡",
+    "size": "392 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/quartz.zip"
+  },
+  {
+    "id": "questcompletist",
+    "name": "QuestCompletist",
+    "version": "v102",
+    "category": "utilidades",
+    "categoryLabel": "Misiones & Logros",
+    "author": "Kader",
+    "description": "Muestra en el mapa del mundo todas las misiones disponibles y pendientes de completar para conseguir el logro El Maestro Cultural.",
+    "folders": [
+      "QuestCompletist"
+    ],
+    "icon": "📜",
+    "size": "797 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/questcompletist.zip"
   },
   {
     "id": "raidachievement",
@@ -532,8 +710,239 @@
       "RaidSlackCheck"
     ],
     "icon": "🏆",
-    "featured": false,
     "size": "363 KB",
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/raidachievement.zip"
+  },
+  {
+    "id": "recount",
+    "name": "Recount",
+    "version": "v4.3.4a",
+    "category": "medidores",
+    "categoryLabel": "Medidores & Daño",
+    "author": "Cryect & Elsia",
+    "description": "El clásico medidor gráfico de daño por segundo (DPS), sanación recibida, muertes y estadísticas de combate en tiempo real.",
+    "folders": [
+      "Recount"
+    ],
+    "icon": "📈",
+    "size": "372 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/recount.zip"
+  },
+  {
+    "id": "reforgelite",
+    "name": "ReforgeLite",
+    "version": "1.33",
+    "category": "utilidades",
+    "categoryLabel": "Optimización & Forja",
+    "author": "Dmitry Sadakov",
+    "description": "Calcula la reforma óptima de estadísticas para capar golpe, pericia, celeridad y maestría con solo un clic en el reformador.",
+    "folders": [
+      "ReforgeLite"
+    ],
+    "icon": "🔨",
+    "size": "43 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/reforgelite.zip"
+  },
+  {
+    "id": "scrap",
+    "name": "Scrap (Venta Automática)",
+    "version": "10.8",
+    "category": "utilidades",
+    "categoryLabel": "Basura & Ventas",
+    "author": "Jaliborc",
+    "description": "Venta automática de basura inteligente y personalizable con lista negra y blanca de objetos al comerciar.",
+    "folders": [
+      "Scrap",
+      "Scrap_Merchant",
+      "Scrap_Options",
+      "Scrap_Spotlight",
+      "Scrap_Visualizer"
+    ],
+    "icon": "🗑️",
+    "size": "192 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/scrap.zip"
+  },
+  {
+    "id": "sexymap",
+    "name": "SexyMap",
+    "version": "4.3.4",
+    "category": "ui",
+    "categoryLabel": "Minimapa & Estilo",
+    "author": "Funkydude",
+    "description": "Transforma el minimapa con bordes animados, estilos de runas/fuego, ocultación automática de botones y zoom con rueda del ratón.",
+    "folders": [
+      "SexyMap"
+    ],
+    "icon": "🧭",
+    "size": "244 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/sexymap.zip"
+  },
+  {
+    "id": "skada",
+    "name": "Skada Damage Meter",
+    "version": "1.4.30",
+    "category": "medidores",
+    "categoryLabel": "Medidores & Daño",
+    "author": "Zarnivoop",
+    "description": "Medidor modular y ligero de daño y sanación para bandas y mazmorras con soporte para múltiples ventanas simultáneas.",
+    "folders": [
+      "Skada",
+      "SkadaCC",
+      "SkadaDamage",
+      "SkadaDamageTaken",
+      "SkadaDeaths",
+      "SkadaDebuffs",
+      "SkadaDispels",
+      "SkadaEnemies",
+      "SkadaHealing",
+      "SkadaPower",
+      "SkadaThreat"
+    ],
+    "icon": "📊",
+    "featured": true,
+    "size": "886 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/skada.zip"
+  },
+  {
+    "id": "spy",
+    "name": "Spy (Rastreador JcJ)",
+    "version": "4.3.4",
+    "category": "jcj",
+    "categoryLabel": "Alerta de Enemigos",
+    "author": "Slipjack",
+    "description": "Detecta y avisa sonoramente si hay jugadores enemigos de la facción contraria cerca de ti, alertando de sigilo y clases.",
+    "folders": [
+      "Spy"
+    ],
+    "icon": "👁️",
+    "size": "412 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/spy.zip"
+  },
+  {
+    "id": "superdupermacro",
+    "name": "SuperDuperMacro",
+    "version": "2.4.1",
+    "category": "utilidades",
+    "categoryLabel": "Macros Avanzadas",
+    "author": "WoW Addons",
+    "description": "Supera el límite restrictivo de 255 caracteres de macros de Blizzard, permitiendo macros complejas sin límite de tamaño.",
+    "folders": [
+      "SuperDuperMacro"
+    ],
+    "icon": "📝",
+    "size": "62 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/superdupermacro.zip"
+  },
+  {
+    "id": "tidyplates",
+    "name": "Tidy Plates",
+    "version": "6.7.Beta8",
+    "category": "utilidades",
+    "categoryLabel": "Placas de Nombre",
+    "author": "Binny & Danltik",
+    "description": "Reemplaza las placas de nombre estándar con barras legibles, estado de amenaza (aggro) por colores, tiempo de perjuicios y rango de combate.",
+    "folders": [
+      "TidyPlates",
+      "TidyPlatesHub",
+      "TidyPlatesWidgets",
+      "TidyPlates_Graphite",
+      "TidyPlates_Grey",
+      "TidyPlates_Neon",
+      "TidyPlates_Quatre"
+    ],
+    "icon": "🏷️",
+    "size": "330 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/tidyplates.zip"
+  },
+  {
+    "id": "tradeskillmaster",
+    "name": "TradeSkillMaster (TSM)",
+    "version": "4.3.4 Edition",
+    "category": "utilidades",
+    "categoryLabel": "Comercio & Subastas",
+    "author": "Sapu94",
+    "description": "Suite integral de comercio y subastas: gestión de compras, cancelaciones, contabilidad de beneficios y crafteo rentable.",
+    "folders": [
+      "TradeSkillMaster",
+      "TradeSkillMaster_Accounting",
+      "TradeSkillMaster_AuctionDB",
+      "TradeSkillMaster_Auctioning",
+      "TradeSkillMaster_Crafting",
+      "TradeSkillMaster_Destroying",
+      "TradeSkillMaster_Gathering",
+      "TradeSkillMaster_ItemTracker",
+      "TradeSkillMaster_Mailing",
+      "TradeSkillMaster_Shopping",
+      "TradeSkillMaster_Warehousing",
+      "TradeSkillMaster_WoWuction"
+    ],
+    "icon": "💰",
+    "size": "1.3 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/tradeskillmaster.zip"
+  },
+  {
+    "id": "warsagesforever",
+    "name": "WarsagesForever (Oficial)",
+    "version": "1.0.2",
+    "category": "ui",
+    "categoryLabel": "Interfaz Oficial",
+    "author": "WarSages",
+    "description": "Addon oficial de interfaz de WarSages para Cataclysm 4.3.4. Modo edición libre (/wf edit), consola de bronce, barras de acción y minimapa mejorado.",
+    "folders": [
+      "WarsagesForever"
+    ],
+    "icon": "👑",
+    "featured": true,
+    "size": "564 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/warsagesforever.zip"
+  },
+  {
+    "id": "weakauras",
+    "name": "WeakAuras 2",
+    "version": "1.4.6",
+    "category": "ui",
+    "categoryLabel": "Avisos & Auras",
+    "author": "Mirrored & WA Team",
+    "description": "Herramienta ultrapotente para crear y compartir alertas visuales y sonoras de procs, tiempos de reutilización, beneficios y desventajas.",
+    "folders": [
+      "WeakAuras",
+      "WeakAurasModelPaths",
+      "WeakAurasOptions",
+      "WeakAurasTutorials"
+    ],
+    "icon": "✨",
+    "featured": true,
+    "size": "5.3 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/weakauras.zip"
+  },
+  {
+    "id": "xperl",
+    "name": "X-Perl UnitFrames",
+    "version": "3.2.1 Cata",
+    "category": "ui",
+    "categoryLabel": "Marcos de Unidad",
+    "author": "Zek",
+    "description": "Reemplazo completo de marcos de jugador, objetivo, foco, grupo y banda con retratos 3D animados, barras de vida gigantes y monitor de agro.",
+    "folders": [
+      "XPerl",
+      "XPerl_ArcaneBar",
+      "XPerl_CustomHighlight",
+      "XPerl_Options",
+      "XPerl_Party",
+      "XPerl_PartyPet",
+      "XPerl_Player",
+      "XPerl_PlayerBuffs",
+      "XPerl_PlayerPet",
+      "XPerl_RaidAdmin",
+      "XPerl_RaidFrames",
+      "XPerl_RaidHelper",
+      "XPerl_RaidMonitor",
+      "XPerl_RaidPets",
+      "XPerl_Target",
+      "XPerl_TargetTarget"
+    ],
+    "icon": "👥",
+    "size": "703 KB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/xperl.zip"
   }
 ]
