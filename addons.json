@@ -897,6 +897,23 @@
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/warsagesforever.zip"
   },
   {
+    "id": "warsagesforeverui",
+    "name": "WarSages Forever UI",
+    "version": "3.0",
+    "category": "ui",
+    "categoryLabel": "Interfaz Oficial",
+    "author": "NeticSoul / WarSages",
+    "description": "Suite modular de interfaz inspirada en Dragonflight/Retail para Cataclysm 4.3.4. Incluye barras de acción modernas, marcos de unidad, minimapa y panel de configuración gráfica.",
+    "folders": [
+      "DragonUI",
+      "DragonUI_Options"
+    ],
+    "icon": "🐲",
+    "featured": true,
+    "size": "50.6 MB",
+    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/warsagesforeverui.zip"
+  },
+  {
     "id": "weakauras",
     "name": "WeakAuras 2",
     "version": "1.4.6",
