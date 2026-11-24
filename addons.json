@@ -881,22 +881,6 @@
     "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/tradeskillmaster.zip"
   },
   {
-    "id": "warsagesforever",
-    "name": "WarsagesForever (Oficial)",
-    "version": "1.0.2",
-    "category": "ui",
-    "categoryLabel": "Interfaz Oficial",
-    "author": "WarSages",
-    "description": "Addon oficial de interfaz de WarSages para Cataclysm 4.3.4. Modo edición libre (/wf edit), consola de bronce, barras de acción y minimapa mejorado.",
-    "folders": [
-      "WarsagesForever"
-    ],
-    "icon": "👑",
-    "featured": true,
-    "size": "564 KB",
-    "downloadUrl": "https://github.com/WarSages/addons-4.3.4/releases/download/v1.0.0/warsagesforever.zip"
-  },
-  {
     "id": "warsagesforeverui",
     "name": "WarSages Forever UI",
     "version": "3.0",
